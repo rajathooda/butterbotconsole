@@ -68,7 +68,7 @@ gpt-index==0.5.8
 gradio==3.24.1
 gradio_client==0.0.7
 grpcio==1.56.0
-grpcio-health-checking==1.56.0
+grpcio-health-checking==1.48.0
 grpcio-reflection==1.56.0
 gTTS==2.3.1
 h11==0.14.0
